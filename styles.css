@@ -40,7 +40,7 @@
 
 body {
     background-color: var(--background-color);
-    background-image: url("./images/backgroundImg.jpg");
+    background-image: url("backgroundImg.jpg");
     font-family: 'Kanit', sans-serif;
     align-items: center;
     height: 100vh;
